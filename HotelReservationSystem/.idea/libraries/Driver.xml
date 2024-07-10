@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Driver">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../J2EE Softwares/Driver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
